@@ -1,7 +1,7 @@
 'use strict';
 
 require('chai').should();
-const encryption = require('bumo-encryption');
+const encryption = require('hpchain-encryption');
 const BumoSDK = require('bumo-sdk');
 // const BumoSDK = require('../index');
 
